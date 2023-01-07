@@ -1,0 +1,29 @@
+{
+  "name": "germany-foreigners",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.1",
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.26",
+    "@types/react-dom": "18.0.10",
+    "baseui": "^12.2.0",
+    "deck.gl": "^8.8.21",
+    "eslint": "8.31.0",
+    "eslint-config-next": "13.1.1",
+    "mapbox-gl": "^2.12.0",
+    "next": "13.1.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-map-gl": "^7.0.20",
+    "styletron-engine-atomic": "^1.5.0",
+    "styletron-react": "^6.1.0",
+    "typescript": "4.9.4"
+  }
+}
